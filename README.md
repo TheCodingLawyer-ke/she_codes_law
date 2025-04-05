@@ -17,7 +17,7 @@ Because knowing how systems work means I can **build** them — not just argue a
 Because exposing vulnerabilities (legally and ethically!) is the first step toward stronger, safer systems. I don’t believe security should come at the cost of freedom — and ethical hacking lets us find that balance.
 
 **Why femininity?**  
-Because I want little girls to know **they can love sparkles and script**. That **they don’t need to become less of themselves to be taken seriously in rooms full of code or constitutional law**.
+Because I want little girls to know **they can love sparkles and script**. That **they don’t need to become less of themselves to be taken seriously in rooms full of code or legal jargon**.
 
 I’m here to rewrite the rules — in law, in code, and in culture.
   
