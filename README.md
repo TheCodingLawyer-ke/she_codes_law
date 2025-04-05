@@ -19,8 +19,10 @@ Because exposing vulnerabilities (legally and ethically!) is the first step towa
 **Why femininity?**  
 Because I want little girls to know **they can love sparkles and script**. That **they don’t need to become less of themselves to be taken seriously in rooms full of code or constitutional law**.
 
-I’m here to rewrite the rules — in law, in code, and in culture.  
+I’m here to rewrite the rules — in law, in code, and in culture.
+  
 And this repo?  
+
 It’s the start of my pink-coded revolution.
 
 Cheers,
